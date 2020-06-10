@@ -1,0 +1,62 @@
+{
+    "menu": [
+        {
+            "nama": "Americano",
+            "harga": 20000,
+            "kategori": "beverage",
+            "ukuran": [
+                "Uno","Due","Tre"
+            ],
+            "varian": [
+                "Hot", "Iced"
+            ],
+            "gambar": "americano.jpg"
+        },
+        {
+            "nama": "Avocado",
+            "harga": 36000,
+            "kategori": "beverage",
+            "ukuran": [
+                "Uno","Due","Tre"
+            ],
+            "varian": ["Frappe"],
+            "gambar": "avocado.jpg"
+        },
+        {
+            "nama": "Cafe Latte",
+            "harga": 26000,
+            "kategori": "beverage",
+            "ukuran": [
+                "Uno","Due","Tre"
+            ],
+            "varian": [
+                "Hot", "Iced"
+            ],
+            "gambar": "latte.jpg"
+        },
+        {
+            "nama": "Golden Nastar",
+            "harga": 99000,
+            "kategori": "cookies",
+            "ukuran": "",
+            "varian": "",
+            "gambar": "nastar.jpg"
+        },
+        {
+            "nama": "Donuts 1/2 Lusin",
+            "harga": 48000,
+            "kategori": "donuts",
+            "ukuran": "",
+            "varian": "",
+            "gambar": "donut.jpg"
+        },
+        {
+            "nama": "J.Pops 2 Lusin",
+            "harga": 49000,
+            "kategori": "donuts",
+            "ukuran": "",
+            "varian": "",
+            "gambar": "jpops.jpg"
+        }
+    ]
+}
